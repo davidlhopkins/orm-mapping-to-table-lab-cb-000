@@ -30,4 +30,8 @@ class Student
 
 end
 
+  def drop_table
+    drop_table students:
+  end
+
 end
